@@ -32,7 +32,9 @@ if(true){...}
 
 ## Installation
 
+```shell
 npm install --save-dev @babel/babel-plugin-transform-define-vars
+```
 
 ## Usage
 
