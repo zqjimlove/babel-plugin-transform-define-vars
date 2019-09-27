@@ -1,0 +1,18 @@
+{
+  "name": "babel-plugin-transform-define-vars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-tester": "^7.0.1",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.6.0"
+  }
+}
