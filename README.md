@@ -8,9 +8,11 @@ The plugin allows you to create global constants which can be configured at comp
 // Babel config
 {
   plugins:[
-    ['transform-define-vars', {
-      hello:'world'
-    }]
+    ['transform-define-vars', 
+      {
+        hello:'world'
+      }
+    ]
   ]
 }
 
@@ -41,9 +43,11 @@ npm install --save-dev @babel/babel-plugin-transform-define-vars
 ```javascript
 {
   'plugins': [
-    ['transform-define-vars', {
-      hello:'world'
-    }]
+    ['transform-define-vars', 
+      {
+        hello:'world'
+      }
+    ]
   ]
 }
 ```
